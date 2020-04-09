@@ -1,5 +1,6 @@
 import com.github.javaparser.utils.CodeGenerationUtils;
 import com.github.javaparser.utils.SourceRoot;
+
 public class Blabla {
 
     private final void method1013(StreamBuffer buf, int opcode) {
